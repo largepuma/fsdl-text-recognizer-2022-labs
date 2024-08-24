@@ -1,5 +1,7 @@
 # 🥞 Full Stack Deep Learning Fall 2022 Labs
 
+Updated bootstrap file: https://tinyurl.com/2wmfdjz6
+
 Welcome!
 
 As part of Full Stack Deep Learning 2022, we will incrementally develop a complete deep learning codebase to create and deploy a model that understands the content of hand-written paragraphs.
